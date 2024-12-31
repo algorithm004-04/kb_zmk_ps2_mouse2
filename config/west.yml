@@ -52,7 +52,6 @@ manifest:
     #   remote: infused-kim
     #   revision: pr-testing/mouse_ps2_module_base_urob
     #   import: app/west.yml
-
     #
     # Additional zmk modules
     #
